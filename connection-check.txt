@@ -1,0 +1,1 @@
+Maya Floors media integration test — no credentials.
